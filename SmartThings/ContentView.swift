@@ -1,21 +1,22 @@
-//
-//  ContentView.swift
-//  SmartThings
-//
-//  Created by Denis Evdokimov on 7/9/23.
-//
+
 
 import SwiftUI
 
 struct ContentView: View {
+    @StateObject var devicesModel = DevicesDataModel()
     var body: some View {
-        VStack {
-            Image(systemName: "globe")
-                .imageScale(.large)
-                .foregroundColor(.accentColor)
-            Text("Hello, world!")
+        VStack{
+            switch devicesModel.modelState{
+            case .wrong:
+                WrongView(model: devicesModel)
+            case .isLoad:
+                DevicesView(dataModel: devicesModel)
+            case .loaded:
+                DevicesView(dataModel: devicesModel)
+            }
+        }.onAppear{
+           devicesModel.asyncAfterFetch()
         }
-        .padding()
     }
 }
 

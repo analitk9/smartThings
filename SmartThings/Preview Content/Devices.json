@@ -1,0 +1,139 @@
+{
+    "data": [
+        {
+            "id": 2,
+            "name": "Робот - пылесос",
+            "icon": "/img/test/1.svg",
+            "isOnline": false,
+            "type": 1,
+            "status": "Выключен",
+            "lastWorkTime": 1616792270
+        },
+        {
+            "id": 3,
+            "name": "Робот - пылесос",
+            "icon": "/img/test/1.svg",
+            "isOnline": true,
+            "type": 1,
+            "status": "Выключен",
+            "lastWorkTime": 1616792270
+        },
+        {
+            "id": 5,
+            "name": "Робот - пылесос",
+            "icon": "/img/test/1.svg",
+            "isOnline": false,
+            "type": 1,
+            "status": "Выключен",
+            "lastWorkTime": 1616792270
+        },
+        {
+            "id": 8,
+            "name": "Робот - пылесос",
+            "icon": "/img/test/1.svg",
+            "isOnline": false,
+            "type": 1,
+            "status": "Выключен",
+            "lastWorkTime": 1616792270
+        },
+        {
+            "id": 9,
+            "name": "Робот - пылесос",
+            "icon": "/img/test/1.svg",
+            "isOnline": false,
+            "type": 1,
+            "status": "Работает",
+            "lastWorkTime": 1616792270
+        },
+        {
+            "id": 12,
+            "name": "Робот - пылесос",
+            "icon": "/img/test/1.svg",
+            "isOnline": false,
+            "type": 1,
+            "status": "Выключен",
+            "lastWorkTime": 1616792270
+        },
+        {
+            "id": 13,
+            "name": "Робот - пылесос",
+            "icon": "/img/test/1.svg",
+            "isOnline": true,
+            "type": 1,
+            "status": "Выключен",
+            "lastWorkTime": 1616792270
+        },
+        {
+            "id": 15,
+            "name": "Робот - пылесос",
+            "icon": "/img/test/1.svg",
+            "isOnline": true,
+            "type": 1,
+            "status": "Выключен",
+            "lastWorkTime": 1616792270
+        },
+        {
+            "id": 4,
+            "name": "Датчик газа",
+            "icon": "/img/test/2.svg",
+            "isOnline": true,
+            "type": 2,
+            "status": "1",
+            "lastWorkTime": 1616792270
+        },
+        {
+            "id": 6,
+            "name": "Датчик газа",
+            "icon": "/img/test/2.svg",
+            "isOnline": false,
+            "type": 2,
+            "status": "2",
+            "lastWorkTime": 1616792270
+        },
+        {
+            "id": 7,
+            "name": "Датчик газа",
+            "icon": "/img/test/2.svg",
+            "isOnline": true,
+            "type": 2,
+            "status": "1",
+            "lastWorkTime": 1616792270
+        },
+        {
+            "id": 10,
+            "name": "Датчик газа",
+            "icon": "/img/test/2.svg",
+            "isOnline": true,
+            "type": 2,
+            "status": "2",
+            "lastWorkTime": 1616792270
+        },
+        {
+            "id": 11,
+            "name": "Датчик газа",
+            "icon": "/img/test/2.svg",
+            "isOnline": true,
+            "type": 2,
+            "status": "2",
+            "lastWorkTime": 1616792270
+        },
+        {
+            "id": 14,
+            "name": "Датчик газа",
+            "icon": "/img/test/2.svg",
+            "isOnline": true,
+            "type": 2,
+            "status": "2",
+            "lastWorkTime": 1616792270
+        },
+        {
+            "id": 1,
+            "name": "Датчик газа",
+            "icon": "/img/test/2.svg",
+            "isOnline": false,
+            "type": 2,
+            "status": "1",
+            "lastWorkTime": 1616792270
+        }
+    ]
+}
